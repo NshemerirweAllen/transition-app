@@ -1,0 +1,33 @@
+#one{
+    background-color: brown;
+    transition-timing-function:linear ;
+}
+#two{
+    background-color: cadetblue;
+transition-timing-function: ease-in;
+transition: 3px;
+}
+#three{
+    background-color: chartreuse;
+    transition-timing-function: ease-in;
+    transition: time 3s;
+}
+#four{
+    background-color: darkblue;
+    transition-timing-function:ease-out ;
+}
+#five{
+    background-color: darkred;
+    transition-timing-function:ease-in-out ;
+
+}
+div{
+    width: 200px; 
+    height: 200px;
+    transition: width 2s;
+}
+div:hover{
+    width: 700px;
+
+
+}

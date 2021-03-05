@@ -1,0 +1,15 @@
+/* body{
+    margin: 0px;
+    padding:0px;
+    height: 100%;
+    width: 100%;
+}
+div{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    transition: width 2s;
+}
+div:hover{
+    width: 700px;
+} */
